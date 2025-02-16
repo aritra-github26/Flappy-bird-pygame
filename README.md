@@ -8,7 +8,7 @@
 git clone https://github.com/aritra-github26/Flappy-bird-pygame.git
 ```
 
-- Create a new virtual environment.
+- Create a new virtual environment (optional).
 
 - Install the required packages using pip:
 
